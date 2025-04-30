@@ -10,7 +10,7 @@ melinda.kleczynski@nist.gov
 Anthony J. Kearsley
 anthony.kearsley@nist.gov
 
-## Versions 
+## Software
 
 * [Python](https://www.python.org/) 3.13.2
 * [Matplotlib](https://matplotlib.org/stable/) 3.10.1
@@ -23,7 +23,7 @@ Certain equipment, instruments, software, or materials are identified in this pa
 Such identification is not intended to imply recommendation or endorsement of any product or service by NIST, nor is it intended to imply 
 that the materials or equipment identified are necessarily the best available for the purpose.
 
-## Datasets 
+## Data
 
 Data are from the Columbia Object Image Library (COIL).
 
