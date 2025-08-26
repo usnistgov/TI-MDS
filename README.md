@@ -17,7 +17,7 @@ anthony.kearsley@nist.gov
 * [NumPy](https://numpy.org/doc/stable/index.html) 2.2.4
 * [oat_python](https://github.com/OpenAppliedTopology/oat_python) 0.1.1 (Note: Different TDA software may return different cycle representatives)
 * [scikit-bio](https://scikit.bio/) 0.7.0
-* [scikit-learn](https://scikit-learn.org/stable/index.html) 1.6.1
+* [scikit-learn](https://scikit-learn.org/stable/index.html) 1.7.1
 * [SciPy](https://docs.scipy.org/doc/scipy/index.html) 1.15.2
 
 Certain equipment, instruments, software, or materials are identified in this paper in order to specify the experimental procedure adequately.
