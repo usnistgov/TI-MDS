@@ -1,12 +1,14 @@
 # Topological Initialization for Multidimensional Scaling
 # Melinda Kleczynski, Anthony J. Kearsley
-# Finalized April 17, 2025 
+# Finalized August 11, 2025 
 
 # Function files 
 
-# numpy 2.2.4
-# oat_python 0.1.1
-# scipy 1.15.2
+# Package versions 
+# ----------------
+# numpy                     2.3.2
+# oat_python                0.1.1
+# scipy                     1.16.1
 
 import numpy as np
 import oat_python as oat
