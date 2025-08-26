@@ -13,12 +13,12 @@ anthony.kearsley@nist.gov
 ## Software
 
 * [Python](https://www.python.org/) 3.13.2
-* [Matplotlib](https://matplotlib.org/stable/) 3.10.1
-* [NumPy](https://numpy.org/doc/stable/index.html) 2.2.4
+* [Matplotlib](https://matplotlib.org/stable/) 3.10.5
+* [NumPy](https://numpy.org/doc/stable/index.html) 2.3.2
 * [oat_python](https://github.com/OpenAppliedTopology/oat_python) 0.1.1 (Note: Different TDA software may return different cycle representatives)
 * [scikit-bio](https://scikit.bio/) 0.7.0
 * [scikit-learn](https://scikit-learn.org/stable/index.html) 1.7.1
-* [SciPy](https://docs.scipy.org/doc/scipy/index.html) 1.15.2
+* [SciPy](https://docs.scipy.org/doc/scipy/index.html) 1.16.1
 
 Certain equipment, instruments, software, or materials are identified in this paper in order to specify the experimental procedure adequately.
 Such identification is not intended to imply recommendation or endorsement of any product or service by NIST, nor is it intended to imply 
